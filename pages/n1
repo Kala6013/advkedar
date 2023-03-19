@@ -1,0 +1,710 @@
+
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<title>CONTACT</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/animate.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/font.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/li-scroller.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/slick.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/jquery.fancybox.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/theme.css">
+<link rel="stylesheet" type="text/css" href="../assets/css/style.css">
+<!--[if lt IE 9]>
+<script src="assets/js/html5shiv.min.js"></script>
+<script src="assets/js/respond.min.js"></script>
+<![endif]-->
+
+<!--Start Header-->
+<div class="container main">
+
+    ﻿<!-- Fixed navbar -->
+<style type="text/css">
+<body>﻿
+
+
+<div class="container main">
+
+    ﻿<!-- Fixed navbar -->
+<style type="text/css">
+
+
+/* @group Blink */
+.blink {
+    -webkit-animation: blink .75s linear infinite;
+    -moz-animation: blink .75s linear infinite;
+    -ms-animation: blink .75s linear infinite;
+    -o-animation: blink .75s linear infinite;
+     animation: blink .75s linear infinite;
+}
+@-webkit-keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 1; }
+    50.01% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@-moz-keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 1; }
+    50.01% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@-ms-keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 1; }
+    50.01% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@-o-keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 1; }
+    50.01% { opacity: 0; }
+    100% { opacity: 0; }
+}
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 1; }
+    50.01% { opacity: 0; }
+    100% { opacity: 0; }
+}
+
+.navbar-default ul li.active a, .navbar-default ul li a:hover, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+        padding: 10px;
+}
+.navbar-default .dropdown-menu > li > a {
+    padding: 10px;
+}
+
+/* @end */
+
+</style>
+
+
+    <nav class="navbar navbar-custom">
+        <div class="header">
+            <div class="top-bar clearfix">
+                <ul>
+                    <div style="float: left;
+    padding-left: 0px;" >
+    <a href="https://www.facebook.com/currentrms" target="_blank">
+      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
+    </a>
+    <a href="https://twitter.com/currentrms" target="_blank">
+      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/twitter-sociocon.png" style="max-height: 32px;" alt="Twitter">
+    </a>
+    <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
+      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
+    </a>
+  </div>
+                    <li><a href="index"> गृह</a></li>
+                    <li><a href="contact"> सम्पर्क</a></li>
+                    <li><a href="About us">हाम्रो बारेमा </a></li>
+                     <li><a href="https://mail.supremecourt.gov.np" method="post" target="_blank" class="fa fa-envelope-o"></a><img src="http://www.supremecourt.gov.np/web/assets/image/New_BlinkIco.gif"></li>
+    
+                </ul>
+                
+                <div class="top-bar-right">
+                    
+                    <ul>
+                     
+                <iframe scrolling="no" border="0" frameborder="0" marginwidth="25px" marginheight="0" allowtransparency="true" src="https://www.ashesh.com.np/linknepali-time.php?time_only=no&amp;font_color=333333&amp;aj_time=yes&amp;font_size=14&amp;line_brake=0&amp;api=420161j141" width="320" height="28"></iframe>
+                  
+                        <!--<li><a href="http://192.168.0.3:3001/webmail/src/login.php" method="post" target="_blank" class="fa fa-envelope-o">&nbsp; Old</a></li>-->                      
+                        <!-- <li class="search-form">
+                            <form action="#">
+                                <div class="form-group">
+                                    <input type="text" placeholder="search..." value="" id="keyword" class="form-control" />
+                                </div>
+                                <a href="#" class="fa fa-search"></a>
+                            </form>
+                            
+                            <!-- /.search-form 
+                            
+                        </li>-->
+                    </ul>
+                </div>
+            </div>
+            <!-- /.top-bar -->
+            
+            <div class="navbar-header">
+                
+                
+                <div class="logo_area"><a href="index.html" class="logo"><img src="../images/logo2.png" width="320px" alt="">
+                
+                        <span class="logo-desc"><p2 style="color:red;">OM LAW ASSOCIATES</p2><br>
+                        Effective Efficient Expenditious<br>
+        ॐ कानुन परामर्श सेवा <br>
+               जनकपुर  : ८, प्रदेश नं  : २ </span>
+                
+                </a>
+                
+                </div>
+
+                </div>
+        <ul class="navbar-right top-causelist hidden-xs">
+                    
+               
+                <div class="add_banner"><img src="../images/flag (2).gif" width="80" alt="">
+
+          
+          </div>
+                  </ul>
+            
+        </div>
+    </nav>
+    
+<nav class="navbar navbar-inverse" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+        <ul class="nav navbar-nav main_nav">
+ <li class="active"><a href="../index.html"><span class="fa fa-home desktop-home"></span><span class="mobile-show">गृह </span></a></li>
+		  
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">सेवाहरु </a>
+            <ul class="dropdown-menu" role="menu">
+           <li><a href="#">ANTI-BRIBERY AND CORRUPTION</a></li>
+              <li><a href="#">COMPETITION</a></li>
+              <li><a href="#">Corporate Compliance</a></li>
+              <li><a href="#">Legal &amp; Regulatory Reforms</a></li>
+              <li><a href="#">Private Equity and Investment Fund</a></li>
+            </ul>
+          </li>
+          
+          <li><a href="#">News and Events</a></li>
+          <li><a href="../pages/contact.html">सम्पर्क </a></li>
+          <li><a href="../pages/gallery.html">ग्यालेरी</a></li>
+		  
+		  
+		  <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">मौजुदा कानून</a>
+            <ul class="dropdown-menu" role="menu" style="">
+			<li><a href="pages/sambidhn.html">संविधान / अध्यादेश</a></li>
+             <li><a href="../pages/1.html">ऐन</a></li>
+	
+			 <li><a href="../pages/niyam.html">नियम</a></li>
+			 <li><a href="../pages/gathan.html">गठन आदेशहरु</a></li>
+			 <li><a href="../pages/niti.html">नीतिहरु</a></li>
+             <li><a href="../pages/international.html">अन्तराष्ट्रिय सन्धि सम्झौता </a></li> 
+			  
+        </ul>
+		  </li><li><a href="../pages/law 2.html">सर्वोच्च अदालत बुलेटिन</a></li>
+		
+      <li>
+      </li><li>    
+  </li></ul></div></nav>
+    <!--Start Tikker-->
+    <div class="ticker">
+        
+    <!-- /.ticker --> 
+    <script>
+$(document).ready(function(){
+$('#tab_download').on('mouseover',function(){
+$(this).removeClass('blink');
+});
+
+$('#tab_download').on('mouseout',function(){
+$(this).addClass('blink');
+}); 
+
+});
+</script>    ﻿<style>
+.tab-content {
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+</style>
+<!--Start News and Slider-->
+<div class="news-slider">
+  <div class="row">
+    <div class="col-md-10">
+      
+      <div class="col-md-8 slider-v3">
+<div class="post-content">
+                    <h2 class="entry-title">मौजुदा कानून / नियम</h2>
+                <span class="vcard" style="display: none;"><span class="fn"><a href="http://www.lawcommission.gov.np/np/archives/author/editornlc" title="Posts by editor" rel="author">editor</a></span></span><span class="updated" style="display:none">2018-12-04T06:19:31+00:00</span>        <div class="post-meta">
+            
+                            
+                    </div>
+    <div >
+	      <div id="tablepress-27_wrapper" class="dataTables_wrapper no-footer"><div class="dataTables_length" id="tablepress-27_length"></div><div id="tablepress-27_filter" class="dataTables_filter"></div><table id="tablepress-27" class="tablepress tablepress-id-27 dataTable no-footer" role="grid" aria-describedby="tablepress-27_info">
+
+<tbody class="row-hover" <tr="" role="row">
+</tr><tr class="row-305 odd" role="row">
+<table id="tablepress-28" class="tablepress tablepress-id-28 dataTable no-footer" role="grid" aria-describedby="tablepress-28_info">
+<thead>
+<tr class="row-1 odd" role="row"><th class="column-1 sorting" tabindex="0" aria-controls="tablepress-28" rowspan="1" colspan="1" aria-label="Ser.No: activate to sort column ascending" style="width: 71px;">Ser.No</th><th class="column-2 sorting" tabindex="0" aria-controls="tablepress-28" rowspan="1" colspan="1" aria-label="नियम: activate to sort column ascending" style="width: 983px;">नियम</th></tr>
+</thead>
+<tbody>
+
+
+<tr class="row-2 even" role="row">
+	<td class="column-1">1</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अख्तियार-दुरूपयोग-अनुसन्.pdf" target="_blank">अख्तियार दुरूपयोग अनुसन्धान आयोग नियमावली, २०५९ </a></td>
+</tr><tr class="row-3 odd" role="row">
+	<td class="column-1">2</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अचल-सम्पत्ति-अधिग्रहण-नि.pdf" target="_blank">अचल सम्पत्ति अधिग्रहण नियमहरू, २०१६</a></td>
+</tr><tr class="row-4 even" role="row">
+	<td class="column-1">3</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अतिरिक्त-हुलाक-नियमावली-2.pdf" target="_blank">अतिरिक्त हुलाक नियमावली, २०३४ </a></td>
+</tr><tr class="row-5 odd" role="row">
+	<td class="column-1">4</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अतिरिक्त-हुलाक-वस्तु-बीम.pdf" target="_blank">आन्तरिक हुलाक वस्तु बीमा गर्ने नियमहरू, २०१९ </a></td>
+</tr><tr class="row-6 even" role="row">
+	<td class="column-1">5</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अदालती-दण्ड-जरिवाना-असूल.pdf" target="_blank">अदालती दण्ड जरिवाना असुल तहसिल नियमहरू, २०२६ लाई खारेज गर्ने नियमहरू गर्ने नियमहरू, २०२८ </a></td>
+</tr><tr class="row-7 odd" role="row">
+	<td class="column-1">6</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2019/11/अध्यागमन-नियमावली-२०५१.pdf" target="_blank">अध्यागमन नियमावली, २०५१</a></td>
+</tr><tr class="row-8 even" role="row">
+	<td class="column-1">7</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2019/12/अन्तशुल्क-नियमावली-२०५९.pdf" target="_blank"> अन्तःशुल्क नियमावली, २०५९</a></td>
+</tr><tr class="row-9 odd" role="row">
+	<td class="column-1">8</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अपाङ्ग-संरक्षण-तथा-कल्या-4.pdf" target="_blank">अपाङ्ग संरक्षण तथा कल्याण नियमावली, २०५१ </a></td>
+</tr><tr class="row-10 even" role="row">
+	<td class="column-1">9</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अभिलेख-संरक्षण-नियमावली.pdf" target="_blank">अभिलेख संरक्षण नियमावली, २०६३</a></td>
+</tr><tr class="row-11 odd" role="row">
+	<td class="column-1">10</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2019/08/up-अवैतनिक-वाणिज्यदूत-सम्बन्धी-नियमावली-२०३९FINAL.pdf" target="_blank">अवैतनिक वाणिज्यदूत सम्बन्धी नियमावली, २०३९ </a></td>
+</tr><tr class="row-12 even" role="row">
+	<td class="column-1">11</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/अाकस्मिक-बीमा-काेष-सञ्चा.pdf" target="_blank">आकस्मिक बीमा कोष सञ्चालन नियमावली, २०६०</a></td>
+</tr><tr class="row-13 odd" role="row">
+	<td class="column-1">12</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/आकस्मिक-कोष-नियमावली-२०३.pdf" target="_blank">आकस्मिक कोष नियमावली, २०३१</a></td>
+</tr><tr class="row-14 even" role="row">
+	<td class="column-1">13</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/आन्तरिक-प्रशासन-दिग्दर्श.pdf" target="_blank">आन्तरिक प्रशासन दिग्दर्शन नियमहरू, २०२८</a></td>
+</tr><tr class="row-15 odd" role="row">
+	<td class="column-1">14</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/आपतकालीन-बालउद्धार-कोष-स-2.pdf" target="_blank">आपतकालीन बालउद्धार कोष (सञ्चालन) नियमावली, २०६७</a></td>
+</tr><tr class="row-16 even" role="row">
+	<td class="column-1">15</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/आमाको-दूधलाई-प्रतिस्थाप-3.pdf" target="_blank">आमाको दूधलाई प्रतिस्थापन गर्ने वस्तु (विक्री वितरण, नियन्त्रण) नियमावली, २०५१</a></td>
+</tr><tr class="row-17 odd" role="row">
+	<td class="column-1">16</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/आयकर-नियमावली-२०५९-2.pdf" target="_blank">आयकर नियमावली, २०५९</a></td>
+</tr><tr class="row-18 even" role="row">
+	<td class="column-1">17</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/आर्थिक-कार्यविधि-नियमावल.pdf" target="_blank">आर्थिक कार्यविधि नियमावली, २०६४</a></td>
+</tr><tr class="row-19 odd" role="row">
+	<td class="column-1">18</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/उखडा-सम्बन्धी-नियमहरू-२०.pdf" target="_blank">उखडा सम्बन्धी नियमहरू, २०२१</a></td>
+</tr><tr class="row-20 even" role="row">
+	<td class="column-1">19</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A-%E0%A4%85%E0%A4%A6%E0%A4%BE%E0%A4%B2%E0%A4%A4-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80-%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%A9-2.pdf" target="_blank">उच्च अदालत नियमावली, २०७३</a></td>
+</tr><tr class="row-21 odd" role="row">
+	<td class="column-1">20</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/उपभोक्ता-संरक्षण-नियमाव-2.pdf" target="_blank">उपभोक्ता संरक्षण नियमावली, २०५६ </a></td>
+</tr><tr class="row-22 even" role="row">
+	<td class="column-1">21</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/उमेर-नाम-र-जात-सच्याउने-नि-2.pdf" target="_blank">उमेर, नाम र जात सच्याउने नियमहरू, २०१७ </a></td>
+</tr><tr class="row-23 odd" role="row">
+	<td class="column-1">22</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/ऋणपत्रकाे-प्राथमिक-तथा-द.pdf" target="_blank">ऋणपत्रको प्राथमिक तथा दोस्रो बजार व्यवस्थापन नियमावली, २०६१</a></td>
+</tr><tr class="row-24 even" role="row">
+	<td class="column-1">23</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/एकल-महिला-सुरक्षा-कोष-सञ्.pdf" target="_blank">एकल महिला सुरक्षा कोष (सञ्चालन) नियमावली, २०७० </a></td>
+</tr><tr class="row-25 odd" role="row">
+	<td class="column-1">24</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/एजेन्सी-संशोधन-र-एकीकरण-न.pdf" target="_blank"> एजेन्सी (संशोधन र एकीकरण) नियमहरू, २०१९ </a></td>
+</tr><tr class="row-26 even" role="row">
+	<td class="column-1">25</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/ओजन-तहलाई-नष्ट-गर्ने-पदार.pdf" target="_blank">ओजोन तहलाई नष्ट गर्ने पदार्थको उपभोग (नियन्त्रण) नियमावली, २०५७ </a></td>
+</tr><tr class="row-27 odd" role="row">
+	<td class="column-1">26</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/औद्योगिक-पुनरुत्थान-कोष.pdf" target="_blank">औद्योगिक पुनरुत्थान कोष (सञ्चालन कार्यविधि) नियमावली, २०६४</a></td>
+</tr><tr class="row-28 even" role="row">
+	<td class="column-1">27</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2019/05/%E0%A4%94%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80-%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AC.pdf" target="_blank">औद्योगिक व्यवसाय नियमावली, २०७६</a><br>
+</td>
+</tr><tr class="row-29 odd" role="row">
+	<td class="column-1">28</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/औषधि-जाँचबुझ-तथा-निरीक्ष-2.pdf" target="_blank">औषधि जाँचबुझ तथा निरीक्षण नियमावली, २०४०</a></td>
+</tr><tr class="row-30 even" role="row">
+	<td class="column-1">29</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/औषधि-दर्ता-नियमावली-२०३८-2.pdf" target="_blank">औषधि दर्ता नियमावली, २०३८</a></td>
+</tr><tr class="row-31 odd" role="row">
+	<td class="column-1">30</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/औषधि-परामर्श-परिषद्-र-औषध-2.pdf" target="_blank">औषधि परामर्श परिषद् र औषधि सल्लाहकार समिति गठन नियमावली, २०३७</a></td>
+</tr><tr class="row-32 even" role="row">
+	<td class="column-1">31</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/औषधि-स्तर-नियमावली-२०४३-2.pdf" target="_blank">औषधि स्तर नियमावली, २०४३</a></td>
+</tr><tr class="row-33 odd" role="row">
+	<td class="column-1">32</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/कञ्चनजङ्घा-संरक्षण-क्षेत.pdf" target="_blank">कञ्चनजङ्घा संरक्षण क्षेत्र व्यवस्थापन नियमावली, २०६४ </a></td>
+</tr><tr class="row-34 even" role="row">
+	<td class="column-1">33</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2019/05/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A5%80-%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AB.pdf" target="_blank">कर्जा सुरक्षण नियमावली, २०७५</a></td>
+</tr><tr class="row-35 odd" role="row">
+	<td class="column-1">34</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/कमैया-श्रम-निषेध-गर्ने-सम-4.pdf" target="_blank">कमैया श्रम (निषेध गर्ने) सम्बन्धी नियमावली, २०६७ </a></td>
+</tr><tr class="row-36 even" role="row">
+	<td class="column-1">35</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/करार-सेवा-नियमहरू-२०२६-2.pdf" target="_blank">करार सेवा नियमहरू, २०२६</a></td>
+</tr><tr class="row-37 odd" role="row">
+	<td class="column-1">36</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/कर्मचारी-समायाेजन-नियमाव.pdf" target="_blank">कर्मचारी समायाेजन नियमावली, २०७४ </a></td>
+</tr><tr class="row-38 even" role="row">
+	<td class="column-1">37</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/काठमाडौं-गोस्वारा-भन्सार.pdf" target="_blank">काठमाडौं गोस्वारा भन्सारको नाउँको सवाल खारेज गर्ने नियम, २०२३ </a></td>
+</tr><tr class="row-39 odd" role="row">
+	<td class="column-1">38</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/काठमाण्डाैं-उपत्यका-विक-2.pdf" target="_blank">काठमाडौं उपत्यका विकास प्राधिकरण नियमावली, २०६८ </a></td>
+</tr><tr class="row-40 even" role="row">
+	<td class="column-1">39</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/कानूनी-सहायतासम्बन्धी-नि.pdf" target="_blank">कानूनी सहायता सम्बन्धी नियमावली, २०५५</a></td>
+</tr><tr class="row-41 odd" role="row">
+	<td class="column-1">40</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2019/07/कारागार-नियमावली-२०२०.pdf" target="_blank">कारागार नियमावली, २०२०</a></td>
+</tr><tr class="row-42 even" role="row">
+	<td class="column-1">41</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/कार्य-सञ्चालन-कोष-नियमाव.pdf" target="_blank">कार्य सञ्चालन कोष नियमावली, २०५२</a></td>
+</tr><tr class="row-43 odd" role="row">
+	<td class="column-1">42</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/कार्यालय-स्थापना-गर्ने-स-2.pdf" target="_blank">कार्यालय स्थापना गर्ने सम्बन्धी नियमहरू, २०४० </a></td>
+</tr><tr class="row-44 even" role="row">
+	<td class="column-1">43</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/कुमारी-चोक-हिसाब-जाँच-निय.pdf" target="_blank">कुमारी चोक हिसाब जाँच नियमहरू, २०१८</a></td>
+</tr><tr class="row-45 odd" role="row">
+	<td class="column-1">44</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/केन्द्रीय-अनुसन्धान-ब्यर.pdf" target="_blank">केन्द्रीय अनुसन्धान व्यूरो  (स्थापना र कार्य सञ्चालन) नियमावली, २०७०</a></td>
+</tr><tr class="row-46 even" role="row">
+	<td class="column-1">45</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/केही-सार्वजनिक-लिखत-प्रम-2.pdf" target="_blank">केही सार्वजनिक लिखत प्रमाणीकरण नियमावली, २०६३ </a></td>
+</tr><tr class="row-47 odd" role="row">
+	<td class="column-1">46</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2019/07/23.-Casino-Rules-2070.pdf" target="_blank">क्यासिनाे नियमावली, २०७०</a></td>
+</tr><tr class="row-48 even" role="row">
+	<td class="column-1">47</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/क्षतिपूर्ति-नियमावली-२०.pdf" target="_blank">क्षतिपूर्ति नियमहरु, २०२०</a></td>
+</tr><tr class="row-49 odd" role="row">
+	<td class="column-1">48</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/खनिज-सर्भेक्षण-भत्ता-तथा-2.pdf" target="_blank">खनिज सर्भेक्षण (भत्ता तथा सुविधा) नियमहरू, २०२४ </a></td>
+</tr><tr class="row-50 even" role="row">
+	<td class="column-1">49</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/खप्तड-राष्ट्रिय-निकुञ्ज-2.pdf" target="_blank">खप्तड राष्ट्रिय निकुञ्ज नियमावली, २०४४</a></td>
+</tr><tr class="row-51 odd" role="row">
+	<td class="column-1">50</td><td class="column-2"><a href="http://www.lawcommission.gov.np/np/wp-content/uploads/2018/10/खर्क-जग्गा-राष्ट्रियकरण-4.pdf" target="_blank">खर्क जग्गा राष्ट्रियकरण नियमहरू, २०३३</a></td>
+</tr></tbody>
+</table></table><div class="dataTables_paginate paging_simple" id="tablepress-27_paginate"></div></div>
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<a href="n2.html" class="next"><button>Next »</button></a>
+
+
+
+      </div>
+	  
+
+    </div>
+      </div>
+      <div class="col-md-5 home-tabs">
+        <div>
+		
+		 <iframe src="https://www.ashesh.com.np/panchang/widget.php?header_title=Nepali Panchang&amp;header_color=e6e5e2&amp;api=612153j415" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" style="border:none; overflow:hidden; width:100%; height:365px; border-radius:5px;" allowtransparency="true">
+</iframe><br><span style="color:gray; font-size:8px; text-align:left"></span></div>
+      </div>
+ <div class="col-md-5 daily-status">
+          <h3>नोभल कोरोना भाइरसको खबर </h3>
+<div role="tabpanel" class="tab-pane active" id="category">
+                <ul>
+                  <iframe width="100%" height="391" margin-left="-40px" src="https://www.youtube.com/embed/-sExYoXmhF4?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+                </ul>
+              </div>
+        </div>
+
+      <!-- /.content --> 
+    </div> 
+    <div class="col-md-2 chiefjustice">
+      <div class="cjsidebar">
+        <div class="top-left-cj">
+            <ul>
+                
+                <img src="../images/featured_img5.jpg" alt="">
+                <li>
+                  <p>अधिवक्ता . श्री केदार आचार्य</p>
+                </li>
+                
+                
+            </ul>
+   
+         <!--  <div class="top-left-cj">
+          <ul>
+            <li><a href="chief_registrar"> मुख्य रजिस्ट्रार </a></li>
+            <img src="http://www.supremecourt.gov.np/web/index.php/../assets/image/face-image.jpg" alt=""/>
+            <li>
+              <p></p>
+            </li>
+          </ul>
+        </div>-->
+        
+        
+        
+         
+        
+        <div class="latest_post">
+  <div class="single_post_content">
+         <h3>Nepali Date Converter</h3><iframe src="https://www.ashesh.com.np/linkdate-converter.php?h_color=21ADE2&amp;b_color=CFE4B1&amp;api=402152j144" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" style="border:none; overflow:hidden; width:290px; height:186px;" allowtransparency="true"></iframe><br><span style="color:#6D6D6D; font-size:8px; text-align:left"><a href="https://www.ashesh.com.np/nepali-date-converter.php" title="Nepali date converter" target="_top" style="text-decoration:none; color:#6D6D6D;"></a></span>
+
+
+
+</div>
+  <h3>उपयोगी लिङ्कहरू</h3>
+<div class="useful-links">
+                    <ul>
+                        <li> <a href="http://judicialcouncil.gov.np" target="_blank"> न्याय परिषद्</a> </li>
+                        <li> <a href="http://www.mediationcouncil.gov.np/" target="_blank"> मेलमिलाप परिषद्</a> </li>
+                        <li> <a href="http://www.moljpa.gov.np" target="_blank"> कानून, न्याय तथा संसदीय मामिला मन्त्रालय</a> </li>
+                        <li> <a href="http://www.lawcommission.gov.np" target="_blank"> नेपाल कानून आयोग</a> </li>
+                        <li> <a href="http://www.attorneygeneral.gov.np/" target="_blank"> महान्यायाधिवक्ताको कार्यालय</a> </li>
+                         <li> <a href="http://www.fet.gov.np/" target="_blank"> वैदेशिक रोजगार न्यायाधिकरण</a> </li>
+                        <li> <a href="http://www.nepalbar.org/" target="_blank"> नेपाल बार एशोसिएशन</a> </li>
+                         <li> <a href="https://www.supremecourtbar.org.np/" target="_blank"> सर्वोच्च अदालत बार एशोसिएशन</a> </li>
+                        <li> <a href="http://www.dopm.gov.np/" target="_blank">कारागार व्यवस्थापन विभाग</a> </li>
+                    </ul>
+                </div>
+
+  </div>
+      </div>
+    </div>
+
+  <!-- /.sidebar -->
+  
+</div>
+
+<!-- /.row -->
+
+<!-- /.news-slider --> 
+
+        <!--Start Other Court Causelis Last-Update-->
+    <!--<div class="other-court-causelist">
+    
+            <div class="row other-causelist">
+            <div class="col-md-3 oc-courts"><a href="#" data-toggle="modal" data-target="#district-cause-list"><span class="txt"> जिल्ला अदालतको पेसी सूची तथा मुद्दाका प्रक्रियाहरु</span></a></div>
+            <div class="col-md-3 oc-courts"><a href="#" data-toggle="modal" data-target="#appeal-court-list"><span class="txt"> उच्च अदालतको पेसी सूची तथा मुद्दाका प्रक्रियाहरु</span></a></div>
+            <div class="col-md-3 oc-courts"><a href="http://supremecourt.gov.np/special/syspublic.php?d=reports&f=courtselect" target="_blank"><span class="txt"> विशेष अदालतको पेसी सूची  तथा मुद्दाका प्रक्रियाहरु</span></a></div>
+            <div class="col-md-3 oc-court-c"><a href="http://supremecourt.gov.np/ca/main.php?f=causelists" target="_blank"><span class="txt"> संविधानसभा अदालतको पेसी सूची </span></a></div>
+            </div>-->
+   
+   
+ <!-- Old Style 
+    <div class="other-court-causelist">
+        <ul>
+            <li><a href="#" data-toggle="modal" data-target="#district-cause-list"><span class="txt"> जिल्ला अदालतको पेसी सूची तथा मुद्दाका प्रक्रियाहरू</span></a></li>
+            <li><a href="#" data-toggle="modal" data-target="#appeal-court-list"><span class="txt"> उच्च अदालतको पेसी सूची तथा मुद्दाका प्रक्रियाहरू</span></a></li>
+            <li><a href="http://supremecourt.gov.np/special/syspublic.php?d=reports&f=courtselect" target="_blank"><span class="txt"> विशेष अदालतको पेसी सूची  तथा मुद्दाका प्रक्रियाहरू</span></a></li>
+            <li><a href="http://supremecourt.gov.np/ca/main.php?f=causelists" target="_blank"><span class="txt"> संविधानसभा अदालतको पेसी सूची </span></a></li>
+            <!--<li><a href="strategic"><img src="http://www.supremecourt.gov.np/web/index.php/../assets/image/strategic-logo.jpg" alt="" /><span class="txt"> सर्वोच्च अदालतको रणनीतिक योजनाहरु</span></a></li>-->
+    <!-- /.other-court-causelist -->     
+         <div class="content-wrap">
+            <div class="row">
+               <script type="text/ecmascript">
+$('.enter_link').click(function () {
+    $(this).parent('#splashscreen').fadeOut(500);
+});
+</script>
+ 
+
+
+<div id="notice_modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-header" style="border:none; background:none;">
+      <button type="button" class="close" data-dismiss="modal" style="color: red ! important; font-weight: bold; position: relative; z-index: 1000; opacity: 1; top: 25px;">×</button>
+    </div>
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-body"> 
+        
+      <img src="http://www.supremecourt.gov.np/web/assets/uploads/कानुन_दिवस.jpg" alt="notice" width="100%"> </div>
+        
+          <!-- <img src = "http://www.supremecourt.gov.np/web/assets/uploads/new_year_2077.jpg" alt = "notice" width = "100%" /> </div> -->
+    </div>
+  </div>
+</div>
+            </div>
+        </div>
+        <!-- Modal -->
+<style type="text/css">
+
+.smn {
+    width: 373px;
+    margin: 30px auto;
+}
+@-webkit-keyframes marqueeAnimation-5094075  { 100%  {margin-left:-1998px}}@-webkit-keyframes marqueeAnimation-50940750  { 100%  {margin-left:-1998px}}@-webkit-keyframes marqueeAnimation-5172010  { 100%  {margin-left:-100020px}}</style>
+
+<div class="modal fade" id="district-cause-list" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title">जिल्ला अदालतहरू</h4>
+            </div>
+            <div class="modal-body">
+                <ul>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/86" target="_blank">अछाम जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/64" target="_blank">अर्घाखाँची जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/19" target="_blank">इलाम जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/31" target="_blank">उदयपुर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/29" target="_blank">ओखलढुंगा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/92" target="_blank">कञ्चनपुर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/68" target="_blank">कपिलवस्तु जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/39" target="_blank">काठमाडौं जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/44" target="_blank">काभ्रेपलान्चोक जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/83" target="_blank">कालिकोट जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/57" target="_blank">कास्की जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/85" target="_blank">कैलाली जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/30" target="_blank">खोटाङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/63" target="_blank">गुल्मी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/54" target="_blank">गोरखा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/49" target="_blank">चितवन जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/76" target="_blank">जाजरकोट जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/79" target="_blank">जुम्ला जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/18" target="_blank">झापा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/91" target="_blank">डडेलधुरा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/84" target="_blank">डोटी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/81" target="_blank">डोल्पा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/56" target="_blank">तनहुँ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/20" target="_blank">ताप्लेजुङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/22" target="_blank">तेह्रथुम जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/73" target="_blank">दाङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/89" target="_blank">दार्चुला जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/77" target="_blank">दैलेख जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/42" target="_blank">दोलखा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/25" target="_blank">धनकुटा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/36" target="_blank">धनुषा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/46" target="_blank">धादिंङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/66" target="_blank">नवलपरासी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/95" target="_blank">नवलपुर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/47" target="_blank">नुवाकोट जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/61" target="_blank">पर्वत जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/51" target="_blank">पर्सा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/21" target="_blank">पाँचथर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/65" target="_blank">पाल्पा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/72" target="_blank">प्युठान जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/88" target="_blank">बझाँङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/75" target="_blank">बर्दिया जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/74" target="_blank">बाँके जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/62" target="_blank">बागलुङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/87" target="_blank">बाजुरा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/50" target="_blank">बारा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/90" target="_blank">बैतडी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/41" target="_blank">भक्तपुर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/24" target="_blank">भोजपुर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/48" target="_blank">मकवानपुर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/53" target="_blank">मनांङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/37" target="_blank">महोत्तरी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/82" target="_blank">मुगु जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/59" target="_blank">मुस्तांङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/27" target="_blank">मोरङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/60" target="_blank">म्याग्दी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/45" target="_blank">रसुवा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/34" target="_blank">रामेछाप जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/69" target="_blank">रुकुम जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/67" target="_blank">रूपन्देही जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/70" target="_blank">रोल्पा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/52" target="_blank">रौतहट जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/55" target="_blank">लमजुङ जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/40" target="_blank">ललितपुर जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/23" target="_blank">संखुवासभा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/33" target="_blank">सप्तरी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/38" target="_blank">सर्लाही जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/71" target="_blank">सल्यान जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/43" target="_blank">सिन्धुपाल्चोक जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/35" target="_blank">सिन्धुली जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/32" target="_blank">सिराहा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/26" target="_blank">सुनसरी जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/78" target="_blank">सुर्खेत जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/28" target="_blank">सोलुखुम्बु जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/58" target="_blank">स्याङजा जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/80" target="_blank">हुम्ला जिल्ला अदालत</a> </li>
+                                        <li><a href="http://www.supremecourt.gov.np/weekly_dainik/pesi/daily/96" target="_blank">रुकुमकोट जिल्ला अदालत</a> </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="nyadhikaran-cause-list" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+    <div class="modal-dialog smn">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title">न्यायाधिकरणहरु</h4>
+            </div>
+            <div class="modal-body">
+                 <ul>
+                    <li><a href="http://supremecourt.gov.np/rajashow/index.php?flag=daily" target="_blank">राजश्व न्यायाधिकरण</a></li>
+                    <li><a href="http://fet.gov.np/causelist/index.php?flag=daily" target="_blank">बैदेशिक रोजगार न्यायाधिकरण</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="appeal-court-list" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+    <div class="modal-dialog high-court-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title">उच्च अदालतहरू</h4>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=1" target="_blank">उच्च अदालत विराटनगर</a></li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=15" target="_blank">उच्च अदालत विराटनगर, इलाम इजलास</a> </li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=2" target="_blank">उच्च अदालत विराटनगर, धनकुटा इजलास</a> </li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=90" target="_blank">उच्च अदालत विराटनगर, अस्थायी इजलास ओखलढुंगा</a> </li>
+                    
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=4" target="_blank">उच्च अदालत जनकपुर</a></li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=3" target="_blank">उच्च अदालत जनकपुर, राजविराज इजलास</a> </li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=91" target="_blank">उच्च अदालत जनकपुर, अस्थायी इजलास वीरगन्ज</a> </li>
+                    
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=6" class="fontface">उच्च अदालत पाटन</a></li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=5" target="_blank">उच्च अदालत पाटन, हेटौंडा इजलास</a> </li>
+                    
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=7" class="fontface">उच्च अदालत पोखरा</a></li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=8" target="_blank">उच्च अदालत पोखरा, बाग्लुङ्ग इजलास</a> </li>
+                    
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=10" class="fontface">उच्च अदालत तुलसीपुर</a></li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=9" target="_blank">उच्च अदालत तुलसीपुर, बुटवल इजलास</a> </li> 
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=14" target="_blank">उच्च अदालत तुलसीपुर, नेपालगंज इजलास</a>
+                    
+                    </li><li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=11" target="_blank">उच्च अदालत सुर्खेत</a> </li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=12" target="_blank">उच्च अदालत सुर्खेत, जुम्ला इजलास</a></li>
+                    
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=96" target="_blank">उच्च अदालत दिपायल</a> </li>
+                    <li><a href="http://supremecourt.gov.np/appeal/syspublic.php?d=reports&amp;f=courtselect&amp;courtid=13" target="_blank">उच्च अदालत दिपायल, महेन्द्रनगर इजलास</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>   
+<footer id="footer"> 
+<div class="copyright">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>© Copyrights 2020 <a href="#" class="self-url">OM LAW ASSOCIATES</a> ARR <!--<a href="#">Terms of use </a> | <a href="#">Privacy Policy</a> | <a href="#">Disclaimer </a>--> </p>
+                </div>
+                <div class="col-md-3 hitcounter">
+                    <!-- <h2> Visited :2840 -->
+                                                
+<!--
+                                <img src="http://hitwebcounter.com/counter/counter.php?page=7010644&style=0006&nbdigits=8&type=page&initCount=3361421" title="website counter" Alt="0000000"   border="0" >
+                                        
+                -->
+                        <!-- </h2> -->
+                </div>
+                <div class="col-md-3">
+                    <p>Web Mastered @ RABIN KUMAR ACHARYA</p>
+                </div>
+            </div>
+        </div>
+        </footer>
+<!-- /.footer --></div>
+<!-- / container main --> 
+
+<!-- Bootstrap core JavaScript
+    ================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+<script src="http://www.supremecourt.gov.np/web/index.php/../assets/libs/bootstrap/js/bootstrap.min.js"></script> 
+<script src="http://www.supremecourt.gov.np/web/index.php/../assets/libs/marquee/jquery.marquee.min.js"></script> 
+<script src="http://www.supremecourt.gov.np/web/index.php/../assets/libs/touchswipe/jquery.touchSwipe.min.js"></script> 
+<script src="http://www.supremecourt.gov.np/web/index.php/../assets/js/main.js"></script>
+<!-- load modal  -->
+ <!-- <script type="text/javascript">
+    $(window).load(function(){
+        $('#notice_modal').modal('show');
+    });
+</script> -->
+ 
+  <!-- Bootstrap PDF Viewer -->
+    <!--
+    <script src="http://www.supremecourt.gov.np/web/index.php/../assets/libs/pdf.js"></script>
+    <script src="http://www.supremecourt.gov.np/web/index.php/../assets/js/bootstrap-pdf-viewer.js"></script>
+    -->
+    <script>
+$(document).ready(function(){
+$('#tab_download').on('mouseover',function(){
+$(this).removeClass('blink');
+});
+
+$('#tab_download').on('mouseout',function(){
+$(this).addClass('blink');
+}); 
+
+});
+</script>
+
+
+
+
+
+
+</div></div>
+</div></body>
+</html>
